@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="12884556_1137165783013609_1982339146_n" tilewidth="32" tileheight="32" tilecount="900">
+  <image source="tuiles/12884556_1137165783013609_1982339146_n.jpg" width="960" height="960"/>
+ </tileset>
+ <tileset firstgid="901" name="12884568_1137165749680279_1253105157_n" tilewidth="32" tileheight="32" tilecount="25">
+  <image source="tuiles/12884568_1137165749680279_1253105157_n.jpg" width="160" height="160"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3PgQkAIAwEse/+SzuELRZM4Aa4SlKNvdL54OOeDx8TfPiY4MPHBB+7PgAAAAAAAIB/HMRYCHQQJwAA
+  </data>
+ </layer>
+ <layer name="logic" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3W0QqAIAyFYaFn97296kbazgTTc/F/IJGYtTat/rTWN7Zbqvd+x2XP7RBH9G7nYzSHWz4q51FsjnFkeVFjblD1k8URzXVDFIfKx0p8J1RrXeXpa8xJlf1K7WOO62P1OtV3Slb/c81n33CX9bHS77pfqX8k1e+yPnY2AAAAAAAAAAAAAPjbAGaklRAQJwAA
+  </data>
+ </layer>
+</map>

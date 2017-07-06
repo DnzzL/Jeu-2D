@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Decors1" tilewidth="32" tileheight="32" tilecount="900">
+  <image source="../../../../../../Telecom SudParis/Projet Informatique/12884556_1137165783013609_1982339146_n.jpg" width="960" height="960"/>
+ </tileset>
+ <tileset firstgid="901" name="Solid" tilewidth="32" tileheight="32" tilecount="25">
+  <image source="../../../../../../Telecom SudParis/Projet Informatique/12884568_1137165749680279_1253105157_n.jpg" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="926" name="hyptosis_tile-art-batch-3" tilewidth="32" tileheight="32" tilecount="900">
+  <image source="tuiles/hyptosis_tile-art-batch-3.jpg" width="960" height="960"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3bWYqDQBRA0UD2v4UsLKvJV+FDtKxZIedA6LRj0xetoPH1AgAAAAAAAAAAAAAAAAAAAAAAAAAAAIAxvu+7/wKS1EKT+6UGH01uF1ukV5zOOkctNLlHroUma+1bxPearFVyXGiyRm2LuGxcn36lLdIy+5+ajHP1Ocq5a52W8UKTOUYeF85dfVpb5OY5TtrMOEdp0mZlC03yzq4N5saAo3n76VrUq7kG0ttAi7zWFrX/ey2utV6P6mkS98umZ+y+Wm8/P/0e98um9P7FyHNV3C+bmceFsbtObuyO743d65ReCzla5my93EuLa6s+42pRrrTJ2XQtxpsxnsTtUq/3PkdcJm6PdiPuPcXt0K+lSZoe12ec1iZazFMzxsflmaekSVyO+Xx//Xk83/E8nn96Hs8HPo8WAP/rB+0bOxpAnAAA
+  </data>
+ </layer>
+ <layer name="Calque 2" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3WMRKDIBAFUGe8/xUyNt4zrSGAiyJSvNcwS6j4sptlAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeM++Lttx5T2ymIcM5iOT96R3X8pCRuOcZWKejJfe9WfN78tmnNbeJZP+9vWv3grnmvZpt6+/a+XcdlxLv9OudPeV/S1XR3sbZaX3EH0faS2T60oZnGWjV/UT+O6zdWvvIi7am6LvpFQTl373rRnJor+n3gkxZ7Mjd+bq/y/qanM5OuNl0kftHlt7lEz6yN1jYC5kaxn0UbtHWbwjMj9kMcaVLM72uefOLOcZVzLhWTKZmx41D1nMQxbzkgUAANDiC+9QYnpAnAAA
+  </data>
+ </layer>
+</map>
